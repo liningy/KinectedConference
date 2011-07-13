@@ -13,7 +13,7 @@ class testApp : public ofBaseApp{
 	
 	public:
 		
-		void setup();//lidh
+		void setup();//lidhdd
 		void update();
 		void draw();
 		void exit();

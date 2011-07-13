@@ -5,7 +5,7 @@
 void testApp::setup(){	
 	ofBackground(255,255,255);	
 	
-	blur.setup(640, 480);
+	blur.setup(640, 480);//test
 	hasCamera = grabber.initGrabber(640, 480);
 	
 	imageWidth = g_videoGrabber.getImageWidth();
